@@ -1,6 +1,5 @@
 import os
 import numpy as np
-import torch
 import pickle
 import matplotlib.pyplot as plt
 
